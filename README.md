@@ -7,6 +7,7 @@
 
 </div>
 <div style="display: inline_block"><br>
+ <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;"
  src="https://cdn.discordapp.com/attachments/996183945358102580/996183991537377432/download20220701193349.png">
 </div>
 
