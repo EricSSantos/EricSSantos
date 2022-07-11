@@ -6,7 +6,5 @@
 #### Ops, não possuo experiência com desenvolvimento 🤫, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente 😉.
 
 <div>
-
-![Snake animation](https://github.com/EricSSantos/EricSSantos/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://www.linkedin.com/in/ericsilva-333" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
