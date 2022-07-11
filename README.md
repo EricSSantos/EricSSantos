@@ -5,7 +5,9 @@
 #### Nas minhas horas vagas, estou desenvolvendo minha primeira aplicação utilizando C# (Windows Forms) 👨‍💻.
 #### Ops, não possuo experiência com desenvolvimento 🤫, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente 😉.
 
+<div>
 
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/ericsilva-333" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
