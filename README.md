@@ -7,7 +7,7 @@
 ###### • ⚡Atualmente estou trabalhando na criação da minha primeira aplicação Windows.
 
 <div align="center" >
-  <img alt="Eric-Csharp" height="25" width="60" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=currentColor">
+  <img alt="Eric-Csharp" height="25" width="60" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=000000">
   <img alt="Eric-Csharp" height="25" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
