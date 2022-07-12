@@ -10,7 +10,7 @@
 
 <div>
   <h4>
-    <p>Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail/">Linx Sistemas (Stone)🧑‍💼.</p>
+    <p>Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail/"Linx Sistemas (Stone)>🧑‍💼.</p>
     <p>Nas horas vagas, estou desenvolvendo minha primeira aplicação (Vale Fácil) utilizando C# (Windows Forms).</p>
     <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente 😉.     </p>
   </h4>
