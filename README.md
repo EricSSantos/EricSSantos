@@ -1,4 +1,6 @@
-## Olá, eu sou o Eric!
+<div lign="center">
+  Olá, eu sou o Eric!
+</div>
 
 ###### • 🌱Atualmente estou Estou aprendendo C# e MySql.
 
