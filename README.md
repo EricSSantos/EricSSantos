@@ -1,4 +1,4 @@
-## Olá, eu sou o Eric 👋!
+## Olá, eu sou o Eric hi!
 
 #### Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na Linx Sistemas (Stone), onde presto suporte para clientes e franqueados com problemas gerais 🧑‍💼.
 
@@ -8,9 +8,3 @@
 <div>
   <a href="https://www.linkedin.com/in/ericsilva-333" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div>
-  
-![Snake animation](https://github.com/EricSSantos/EricSSantos/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
