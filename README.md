@@ -8,6 +8,7 @@
 
 <div align="center" >
   <img alt="Eric-Csharp" height="25" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Eric-Csharp" height="25" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
