@@ -6,6 +6,8 @@
 
 ###### • ⚡Atualmente estou trabalhando na criação da aplicação "Vale Fácil" e aprendendo a programar.
 
+##
+
 #### Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na Linx Sistemas (Stone)🧑‍💼.
 
 #### Nas minhas horas vagas, estou desenvolvendo minha primeira aplicação utilizando C# (Windows Forms).
