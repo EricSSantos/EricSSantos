@@ -4,7 +4,7 @@
 
 ###### • 🌱Atualmente estou aprendendo C# e MySql.
 
-###### • ⚡Atualmente estou trabalhando na criação da minha primeira aplicação Windows.
+###### • ⚡Estou trabalhando na criação da minha primeira aplicação Windows.
 
 ##
 
