@@ -9,12 +9,14 @@
 ##
 
 #### Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na Linx Sistemas (Stone)🧑‍💼.
+
 <div>
   <h4>
     <p>Nas horas vagas, estou desenvolvendo minha primeira aplicação utilizando C# (Windows Forms).</p>
     <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente 😉.     </p>
   </h4>
 </div>
+
 ##
 
 <div align="center" >
