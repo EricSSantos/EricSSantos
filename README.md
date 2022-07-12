@@ -1,5 +1,5 @@
 <div lign="center">
-  <h2> Olá, eu sou o Eric! </h2>
+  <h1> Olá, eu sou o Eric! </h1>
 </div>
 
 ###### • 🌱Atualmente estou Estou aprendendo C# e MySql.
