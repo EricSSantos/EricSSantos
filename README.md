@@ -2,9 +2,7 @@
   <h1>Olá, eu sou o Eric 👋!</h1>
 </div>
 
-###### • 🌱Atualmente estou aprendendo C# e MySql.
-
-###### • ⚡Estou trabalhando na criação da minha primeira aplicação Windows.
+###### • 🌱Atualmente estou aprendendo C# e MySQL.
 
 ##
 
