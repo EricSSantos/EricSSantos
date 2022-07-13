@@ -2,10 +2,6 @@
   <h1>Olá, eu sou o Eric 👋!</h1>
 </div>
 
-###### • 🌱Atualmente estou aprendendo C# e MySQL.
-
-##
-
 <div>
   <h4>
     <p>Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas (Stone)</a>🧑‍💼.</p>
