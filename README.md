@@ -3,12 +3,6 @@
 </div>
 
 <div>
-  <h6>
-    Atualmente estou aprendendo C# e SQL(Firebird)
-  </h6>
-</div>
-
-<div>
   <h4>
     <p>Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas (Stone)</a>🧑‍💼.</p>
     <p>Nas horas vagas, estou desenvolvendo minha primeira aplicação (Vale Fácil) utilizando C#.</p>
@@ -16,6 +10,12 @@
   </h4>
 </div>
 
+##
+<div>
+  <h6>
+    Atualmente estou aprendendo C# e SQL(Firebird)
+  </h6>
+</div>
 ##
 
 <div align="center" >
