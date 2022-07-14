@@ -3,6 +3,9 @@
 </div>
 
 <div>
+  <h5>
+  .
+  </h5>
   <h4>
     <p>Sou estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas (Stone)</a>🧑‍💼.</p>
     <p>Nas horas vagas, estou desenvolvendo minha primeira aplicação (Vale Fácil) utilizando C#.</p>
