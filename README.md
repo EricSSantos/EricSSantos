@@ -11,11 +11,13 @@
 </div>
 
 ##
+
 <div>
   <h6>
     Atualmente estou aprendendo C# e SQL(Firebird)
   </h6>
 </div>
+
 ##
 
 <div align="center" >
