@@ -14,7 +14,7 @@
 
 <div>
   <h6>
-    • ⚡ Atualmente estou aprendendo C# e SQL(Firebird)
+    • ⚡ Atualmente estou aprendendo C# e SQL (Firebird)
   </h6>
 </div>
 
