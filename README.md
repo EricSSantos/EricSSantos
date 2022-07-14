@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://cdn.discordapp.com/attachments/996183945358102580/997000368221335602/eric.png"/>
+<img align="right" height="400em" src="https://cdn.discordapp.com/attachments/996183945358102580/997000368221335602/eric.png"/>
 
 <div align="center">
   <h1>Olá, eu sou o Eric <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
