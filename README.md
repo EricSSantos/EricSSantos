@@ -1,7 +1,7 @@
 <img align="right" height="590em" src=""/>
 
 <div align="center">
-  <h1>Olá, eu sou o Eric 👋!</h1>
+  <h1>Olá, eu sou o Eric <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
 </div>
 
 <div>
