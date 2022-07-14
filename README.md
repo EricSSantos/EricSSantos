@@ -6,9 +6,9 @@
 
 <div>
   <h4>
-    <p>Estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas (Stone)</a>🧑‍💼.</p>
+    <p>Estudante de Sistemas de Informação e Analista de Suporte Pleno na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
     <p>Nas horas vagas, estou desenvolvendo minha primeira aplicação (Vale Fácil).</p>
-    <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente 😉.     </p>
+    <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente.     </p>
   </h4>
 </div>
 
