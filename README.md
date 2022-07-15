@@ -22,4 +22,5 @@
 
 ###### • 🌱 Estou focando meus estudos em C# e SQL (Firebird)
 ###### • 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
-<tr><img src="https://cdn.discordapp.com/attachments/996183945358102580/996657956055679116/icon.png">
+
+<pre><img src="https://cdn.discordapp.com/attachments/996183945358102580/996657956055679116/icon.png"></pre>
