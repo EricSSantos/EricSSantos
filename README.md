@@ -20,6 +20,7 @@
   <br>
     <br>
 • 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
+  <br>
 </h6>
   
 ##
