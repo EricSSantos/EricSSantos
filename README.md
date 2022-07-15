@@ -17,10 +17,10 @@
 
 <h6>
 • 🌱 Estou focando meus estudos em C#, SQL (Firebird) e Docker
-  <br>
-    <br>
+  <br><br>
 • 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
-  <br>
+  <br><br>
+• 📫 Entre em contato comigo ericsilva333@outlook.com
 </h6>
   
 ##
