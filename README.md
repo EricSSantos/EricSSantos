@@ -11,7 +11,6 @@
     <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente.</p>
     <br>
   </h4>
-  <a href="https://www.linkedin.com/in/ericsilva-333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
@@ -21,3 +20,7 @@
     <br>
   • 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
 </h5>
+
+##
+
+  <a href="https://www.linkedin.com/in/ericsilva-333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
