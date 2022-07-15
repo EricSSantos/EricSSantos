@@ -10,12 +10,13 @@
     <p>Nas horas vagas estou desenvolvendo minha primeira aplicação Windows.</p>
     <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente.</p>
   </h4>
+    <a href="https://www.linkedin.com/in/ericsilva-333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ericsilva-333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
 
 ###### • 🌱 Estou focando meus estudos em C# e SQL (Firebird)
