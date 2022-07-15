@@ -15,11 +15,9 @@
 
 ##
 
-<h5>
-  • 🌱 Estou focando meus estudos em C# e SQL (Firebird)
-    <br>
-  • 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
-</h5>
+#####• 🌱 Estou focando meus estudos em C# e SQL (Firebird)
+
+#####• 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
 
 ##
 
