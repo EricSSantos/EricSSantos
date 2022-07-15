@@ -16,10 +16,8 @@
 
 ##
 
-<pre>
- <h5>
+<h5>
   • 🌱 Estou focando meus estudos em C# e SQL (Firebird)
     <br>
   • 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
- </h5>
-</pre>
+</h5>
