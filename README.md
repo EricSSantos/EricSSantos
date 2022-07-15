@@ -13,10 +13,12 @@
   </h4>
 </div>
 
-###### • 🌱 Estou focando meus estudos em C# e SQL (Firebird)
-
-###### • 🔥 Atualmente estou trabalhando no desenvimento da aplicação Vale Fácil
-
+<h6>
+• 🌱 Estou focando meus estudos em C# e SQL (Firebird)
+  <br>
+• 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
+</h6>
+  
 ##
 
   <a href="https://www.linkedin.com/in/ericsilva-333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
