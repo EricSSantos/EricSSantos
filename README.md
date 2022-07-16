@@ -16,7 +16,7 @@
 ##
 
 <h6>
-• 🌱 Estou focando meus estudos em C#, SQL (Firebird).
+• 🌱 Estou focando meus estudos em C# e SQL (Firebird).
   <br><br>
 • 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
   <br><br>
