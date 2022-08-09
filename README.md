@@ -6,7 +6,7 @@
   <h4>
     <p>Sou estudante de Sistemas de Informação e Analista de Suporte na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
     <p>Nas horas vagas estou desenvolvendo minha primeira aplicação Windows.</p>
-    <p>Ops, não possuo experiência com desenvolvimento, sendo assim estou estudando e aplicando o conhecimento absorvido no projeto de forma totalmente independente.</p>
+    <p>Não possuo grandes experiências com desenvolvimento, sendo assim estou estudando de forma autônoma e aplicando todo conhecimento absorvido em meu projeto pessoal.</p>
     <br>
   </h4>
 </div>
