@@ -5,8 +5,7 @@
 <div>
   <h4>
     <p>Sou estudante de Sistemas de Informação e Analista de Suporte na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
-    <p>Nas horas vagas estou desenvolvendo minha primeira aplicação Windows.</p>
-    <p>Não possuo grandes experiências com desenvolvimento, sendo assim estou estudando de forma autônoma e aplicando todo conhecimento absorvido em meu projeto pessoal.</p>
+    <p>Nas horas vagas estou desenvolvendo minha primeira aplicação utilizando as tecnologias C# e Firebird!</p>
     <br>
   </h4>
 </div>
