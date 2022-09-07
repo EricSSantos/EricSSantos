@@ -15,7 +15,7 @@
 <h6>
   • 📫 Entre em contato comigo ericsilva333@outlook.com
     <br><br>
-• 🌱 Focando meus estudos em C# e SQL (Firebird).
+• 🌱 Focando meus estudos na linguagem C# e SQL(Firebird).
   <br><br>
 • 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
 </h6>
