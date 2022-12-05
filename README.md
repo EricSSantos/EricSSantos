@@ -4,8 +4,8 @@
 
 <div>
   <h4>
-    <p>Sou estudante de Sistemas de Informação e Analista de Suporte na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
-    <p>Nas horas vagas estou desenvolvendo minha primeira aplicação utilizando as tecnologias C# e Firebird!</p>
+    <p>Sou estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
+    <p>Nas horas vagas estou desenvolvendo meu projeto pessoal utilizando as tecnologias C#, SQLite e Firebird!</p>
     <br>
   </h4>
 </div>
