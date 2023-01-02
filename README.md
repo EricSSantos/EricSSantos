@@ -4,8 +4,7 @@
 
 <div>
   <h4>
-    <p>Sou estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
-    <p>Nas horas vagas estou desenvolvendo meu projeto pessoal utilizando as tecnologias C#, SQLite e Firebird!</p>
+    <p>Estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
     <br>
   </h4>
 </div>
@@ -15,9 +14,8 @@
 <h6>
   • 📫 Entre em contato comigo ericsilva333@outlook.com
     <br><br>
-• 🌱 Focando meus estudos na linguagem C# e SQL(Firebird).
+• 🌱 Focando meus estudos na linguagem C#.
   <br><br>
-• 🔥 Atualmente estou trabalhando no desenvimento da aplicação <a href="https://github.com/EricSSantos/Vale-Facil">Vale Fácil</a>
 </h6>
   
 ##
