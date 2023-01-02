@@ -5,6 +5,4 @@
 
 <h3>Olá, eu sou o Eric! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h3>
 
-<h6>
-  Sou estudante de Sistemas de Informação e Desenvolvedor Jr, atualmente focando meus estudos na linguagem C#
-</h6>
+<h5>Sou estudante de Sistemas de Informação e Desenvolvedor Jr, atualmente focando meus estudos na linguagem C#</h5>
