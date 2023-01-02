@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/EricSSantos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+##
+
 <div>
   <h6>
     <p>• Sou estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
