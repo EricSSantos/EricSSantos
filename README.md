@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Olá, eu sou o Eric <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
-</div>
+
+<h1>Olá, eu sou o Eric <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!</h1>
 
 <div>
   <h4>
