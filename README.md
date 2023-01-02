@@ -4,12 +4,10 @@
 
 <div>
   <h4>
-    <p>Estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
+    <p>Sou estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
     <br>
   </h4>
 </div>
-
-##
 
 <h6>
   • 📫 Entre em contato comigo ericsilva333@outlook.com
