@@ -7,11 +7,6 @@
 
 ##
 
-<div>
-  <h6>
-    <p>• Sou estudante de Sistemas de Informação e Desenvolvedor Jr. na <a href="https://www.linkedin.com/company/linxretail">Linx Sistemas</a>.</p>
-    <br>
-    <p>• 🌱 Focando meus estudos na linguagem C#.</p>
-    <br><br>
-  </h6>
-</div>
+<h6>
+  Sou estudante de Sistemas de Informação e Desenvolvedor Jr, atualmente focando meus estudos na linguagem C#
+</h6>
