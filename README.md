@@ -2,6 +2,6 @@
 
 ##
 
-<h3>Olá, eu sou o Eric! 👋</h3>
+<h2>Olá, eu sou o Eric! 👋</h2>
 
 <h4>Sou estudante de Sistemas de Informação e Desenvolvedor Jr, onde atualmente estou focando meus estudos em C#</h4>
