@@ -2,7 +2,7 @@
 
 <h3>Olá, eu sou o Eric! 👋</h3>
 
-<h4>Sou estudante de Sistemas de Informação e Desenvolvedor Jr, onde atualmente estou focando meus estudos em C#</h4>
+<h4>Sou um estudante de Sistemas de Informação com interesse na área de programação. Atualmente, estou dedicando meu tempo livre ao desenvolvimento de um projeto pessoal, utilizando as tecnologias C# e Firebird. Meu objetivo principal é aplicar esse conhecimento em novos projetos e contribuir para o desenvolvimento de soluções.</h4>
 
 ##
 
