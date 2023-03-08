@@ -11,6 +11,10 @@ Sou um estudante de Sistemas de Informação com interesse na área de programa�
 
 <br>
 
+<h5>
+Spotify
+</h5>
+
 <div id="spotify" align="center">
   
 [![Spotify](https://dynamic-spotify-7hdpbwgzr-ericssantos.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Eric.sad)  
