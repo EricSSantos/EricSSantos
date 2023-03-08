@@ -1,9 +1,18 @@
-##
-
 <h3>Olá, eu sou o Eric! 👋</h3>
 
-<h4>Sou um estudante de Sistemas de Informação com interesse na área de programação. Atualmente, estou dedicando meu tempo livre ao desenvolvimento de um projeto pessoal, utilizando as tecnologias C# e Firebird. Meu objetivo principal é aplicar esse conhecimento em novos projetos e contribuir para o desenvolvimento de soluções.</h4>
+<br>
 
-##
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/EricSSantos)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:ericsilva333@outlook.com)
+ 
+<h6>
+Sou um estudante de Sistemas de Informação com interesse na área de programação. Atualmente, estou dedicando meu tempo livre ao desenvolvimento de um projeto pessoal, utilizando as tecnologias C# e Firebird. Meu objetivo principal é aplicar esse conhecimento em novos projetos e contribuir para o desenvolvimento de soluções.
+</h6>
 
-<a href="https://www.linkedin.com/in/EricSSantos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+
+<div id="spotify" align="center">
+  
+[![Spotify](https://dynamic-spotify-7hdpbwgzr-ericssantos.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Eric.sad)  
+
+</div>
