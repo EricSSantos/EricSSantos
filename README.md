@@ -9,8 +9,7 @@
 Sou um estudante de Sistemas de Informação com interesse na área de programação. Atualmente, estou dedicando meu tempo livre ao desenvolvimento de um projeto pessoal, utilizando as tecnologias C# e Firebird. Meu objetivo principal é aplicar esse conhecimento em novos projetos e contribuir para o desenvolvimento de soluções.
 </h4>
 
-<br>
-
+##
 
 <div id="spotify" align="center">
  
