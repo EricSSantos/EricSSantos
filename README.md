@@ -12,11 +12,3 @@ Sou um estudante de Sistemas de Informação com interesse na área de programa�
 - ##### [Vale Fácil](https://github.com/EricSSantos/Vale-Facil) - Sistema de gestão de Pontos 
 
 <br>
-
-##
-
-<div id="Spotify" align="center">
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6kidzm03f7rfcrq7vtkdrn1h&cover_image=true&theme=novatorem&show_offline=true&background_color=1c1c1c&interchange=false&bar_color=9871ad&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=z6kidzm03f7rfcrq7vtkdrn1h&redirect=true)
- 
-</div>
