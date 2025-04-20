@@ -4,7 +4,7 @@
   <img align="right" src="https://github.com/user-attachments/assets/34179594-ac97-4ec5-bf9d-0b4d0d5d4d75" width="138" alt="Eric Avatar" />
   
   [![Email](https://img.shields.io/badge/Email-ericsillva333@outlook.com-blue?logo=gmail&logoColor=white)](mailto:ericsillva333@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-eric--ssantos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericssantos)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ericssantos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericssantos)
   
   Olá, sou Desenvolvedor Back-end com foco em .NET, banco de dados e criação de APIs RESTful.
   Tenho experiência prática no desenvolvimento de aplicações usando C#, Entity Framework, bancos relacionais (como Firebird e PostgreSQL).
